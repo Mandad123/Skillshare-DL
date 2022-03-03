@@ -1,5 +1,6 @@
 import sys, os
 from skillshare import Skillshare, splash
+PHPSESSID=73a6e02a3abcc6560c4d3bac9d1997bb
 
 # or by class ID:
 # dl.download_course_by_class_id(189505397)
